@@ -12,10 +12,6 @@ this project is a To-Do-List to help you to plan your day.
 
 that's a visual capture for the page:
 
-https://dochub.com/abdelrahman-m-abdelhameed20/woZk8kN/project-png?dt=nC7jEppKgr1KZbzmCUd_
-
-https://flic.kr/p/2iomtrt
+![project](https://user-images.githubusercontent.com/54869237/73615040-7df5c780-460d-11ea-94bc-bcb515f3a8dd.png)
 
 
-
-![Image](https://flic.kr/p/2iomtrt)
